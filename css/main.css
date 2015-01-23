@@ -2,7 +2,7 @@ html	{
 	background-color: #cccccc;
 }
 
-h1	{
+h1, h2	{
 
 	font-weight: normal
 	font-size: 5rem;
@@ -22,4 +22,8 @@ a:hover	{
 
 p {
 	font-family: "Bitter";
+}
+
+b {
+	Color: grey;
 }
