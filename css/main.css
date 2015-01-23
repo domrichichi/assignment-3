@@ -1,8 +1,8 @@
-html	{
+html {
 	background-color: #cccccc;
 }
 
-h1, h2	{
+h1, h2 {
 
 	font-weight: normal
 	font-size: 5rem;
@@ -16,7 +16,7 @@ h3 {
 	font-weight: normal
 	font-size: 4rem;
 	font-style: normal;
-	text-decoration: underline;
+	text-decoration: none;
 	font-family: "Bowlby One Sc";
 	line-height: 2;
 }
@@ -44,4 +44,29 @@ ol{
 
 ul {
 	list-style-type: square;
+	font-family: "Bitter";
+}
+
+figcaption {
+	font-family: "Bitter";
+	font-style: light;
+}
+
+blockquote {
+text-align: center;
+font-size:1.5rem;
+font-family: "Bitter";
+}
+
+.neil {
+	text-align: right;
+	font-style: italic;
+}
+
+dl {
+	font-family: "Bitter";
+}
+
+.term {
+	font-style: bold;
 }
