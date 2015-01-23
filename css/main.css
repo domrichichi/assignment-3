@@ -12,6 +12,15 @@ h1, h2	{
 	line-height: 2;
 }
 
+h3 {
+	font-weight: normal
+	font-size: 4rem;
+	font-style: normal;
+	text-decoration: underline;
+	font-family: "Bowlby One Sc";
+	line-height: 2;
+}
+
 a {
 	color: red;
 }
@@ -26,4 +35,13 @@ p {
 
 b {
 	Color: grey;
+}
+
+ol{
+	list-style: none;
+	padding: 0;
+}
+
+ul {
+	list-style-type: square;
 }
