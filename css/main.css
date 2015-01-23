@@ -13,5 +13,13 @@ h1	{
 }
 
 a {
-	color: ;
+	color: red;
+}
+
+a:hover	{
+	color: white;
+}
+
+p {
+	font-family: "Bitter";
 }
